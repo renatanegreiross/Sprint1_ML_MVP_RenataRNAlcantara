@@ -1,6 +1,6 @@
 # Predição de Falhas em Máquinas Industriais
 
-Este repositório contém o projeto desenvolvido para a disciplina de Machine Learning.
+Este repositório contém o projeto desenvolvido para a disciplina de Machine Learning (primeira Sprint do curso, então avaliem com moderação por favor).
 
 O objetivo do projeto é construir e avaliar modelos capazes de prever a ocorrência de falhas em máquinas industriais a partir de dados operacionais.
 
