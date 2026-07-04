@@ -1,4 +1,4 @@
-# Predição de Falhas em Máquinas Industriais
+# (Primeiro MVP) Projeto de Predição de Falhas em Máquinas Industriais
 
 Este repositório contém o projeto desenvolvido para a disciplina de Machine Learning (primeira Sprint do curso, então avaliem com moderação por favor).
 
